@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pollution</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="my_image_description">Description of my image</string>
+    <string name="think">Think</string>
+    <string name="air_purity_check">Have you ever checked\nthe purity of the air?</string>
+    <string name="flux_du_polluant">Flux du polluant</string>
+    <string name="x">x</string>
+    <string name="hauteur">Hauteur</string>
+    <string name="Stability">Satbility</string>
+    <string name="y">y</string>
+    <string name="z">z</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <br.com.simplepass.loadingbutton.customViews.CircularProgressButton
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Widget.AppCompat.Button.Colored"
+    android:id="@+id/imgBtnTest0"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginLeft="18dp"
+    android:layout_marginRight="18dp"
+    android:layout_marginBottom="10dp"
+    android:text="Test 0"
+    app:finalCornerAngle="50dp"
+    app:initialCornerAngle="0dp"
+    app:spinning_bar_color="#FFFFFF"
+    app:spinning_bar_padding="0dp"
+    app:spinning_bar_width="3dp"
+        tools:ignore="MissingClass" />
